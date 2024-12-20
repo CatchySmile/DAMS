@@ -13,7 +13,7 @@ Features
 
 ## Usage
 
-    Open the browser console (Ctrl+Shift+I or F12).
+    Open the Dekstop client console or browser console (Ctrl+Shift+I or F12).
     Copy and paste the script into the console.
     Press Enter to run the script.
 
