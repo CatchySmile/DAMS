@@ -44,5 +44,6 @@ Features
 
 # Disclaimer
 
+Using this script counts as "Self-Botting" and is against discord TOS.
 This script is for educational purposes only and should be used responsibly. 
 Running multiple instances or excessive spamming may violate Discord’s Terms of Service. It may also rate limit your account(s).
