@@ -2,7 +2,7 @@
 # DAMS - Discord Advanced Messaging System
 [Preview Image](https://i.ibb.co/j45CzRQ/image.png)
 ## Overview
-DAMS (Advanced Messaging System) allows you to send messages to Discord channels in bulk in multiple channels through a custom user interface. DAMS provides an interactive window that can be toggled, enabling the user to configure and send both single and multiple messages with specified delays.
+DAMS (Discord Advanced Messaging System) allows you to send messages to Discord channels in bulk in multiple channels through a custom user interface. DAMS provides an interactive window that can be toggled, enabling the user to configure and send both single and multiple messages with specified delays.
 Features
 
     Custom UI: A draggable window containing the functionality for messaging, channel selection, and configuration.
